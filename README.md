@@ -25,7 +25,8 @@ Based on your need, instruct the agent to utilize one of our specialized ELITE p
 - 🔒 **[Security Audit & Code Review](security/security_audit_playbook.md)**
 - 🤖 **[AI & Prompt Engineering](ai/ai_engineering_playbook.md)**
 - 🧪 **[QA Automation & E2E Testing](qa/qa_automation_playbook.md)**
-- 📱 **[Mobile Engineering](mobile/ios_playbook.md)**
+- 🤖 **[Android Engineering](mobile/android_playbook.md)**
+- 📱 **[iOS Engineering](mobile/ios_playbook.md)**
 - 🚨 **[Rollback & Disaster Recovery](governance/rollback_playbook.md)**
 
 ### 3. Verify & Release

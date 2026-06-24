@@ -444,7 +444,8 @@ For scaling to a full engineering organization, utilize the following specialize
 - [Security Audit & Code Review](security/security_audit_playbook.md)
 - [AI & Prompt Engineering](ai/ai_engineering_playbook.md)
 - [QA Automation & E2E Testing](qa/qa_automation_playbook.md)
-- [Mobile Engineering](mobile/ios_playbook.md)
+- [Android Engineering](mobile/android_playbook.md)
+- [iOS Engineering](mobile/ios_playbook.md)
 - [Code Review Agent](governance/code_review_agent.md)
 - [Rollback & Disaster Recovery](governance/rollback_playbook.md)
 
