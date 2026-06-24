@@ -437,14 +437,16 @@ Format as Markdown so I can paste it into NOTES.md.
 
 For scaling to a full engineering organization, utilize the following specialized playbooks located in the `workflows/` directory:
 
-- [Backend & Database Engineering](backend_playbook.md)
-- [DevOps & Cloud Engineering](devops_cloud_playbook.md)
-- [Security Audit & Code Review](security_audit_playbook.md)
-- [AI & Prompt Engineering](ai_engineering_playbook.md)
-- [QA Automation & E2E Testing](qa_automation_playbook.md)
-- [iOS Engineering](ios_playbook.md)
-- [Code Review Agent](code_review_agent.md)
-- [Rollback & Disaster Recovery](rollback_playbook.md)
+- [Frontend Accessibility & UX](frontend/a11y_playbook.md)
+- [Backend & Database Engineering](backend/backend_playbook.md)
+- [DevOps & Cloud Engineering](devops/devops_cloud_playbook.md)
+- [Enterprise Monorepo Orchestration](devops/monorepo_playbook.md)
+- [Security Audit & Code Review](security/security_audit_playbook.md)
+- [AI & Prompt Engineering](ai/ai_engineering_playbook.md)
+- [QA Automation & E2E Testing](qa/qa_automation_playbook.md)
+- [Mobile Engineering](mobile/ios_playbook.md)
+- [Code Review Agent](governance/code_review_agent.md)
+- [Rollback & Disaster Recovery](governance/rollback_playbook.md)
 
 ---
 

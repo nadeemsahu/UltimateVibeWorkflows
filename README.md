@@ -18,13 +18,15 @@ python workflows/scripts/scaffold_context.py
 Point your AI agent (Cursor, Gemini, Copilot, Claude) to the `workflows/vibe-coding-workflows.md` file as its master instruction set. 
 
 Based on your need, instruct the agent to utilize one of our specialized ELITE playbooks:
-- 🏗️ **[Backend & Database Engineering](backend_playbook.md)**
-- ☁️ **[DevOps & Cloud Engineering](devops_cloud_playbook.md)**
-- 🔒 **[Security Audit & Code Review](security_audit_playbook.md)**
-- 🤖 **[AI & Prompt Engineering](ai_engineering_playbook.md)**
-- 🧪 **[QA Automation & E2E Testing](qa_automation_playbook.md)**
-- 📱 **[iOS Engineering](ios_playbook.md)**
-- 🚨 **[Rollback & Disaster Recovery](rollback_playbook.md)**
+- ♿ **[Frontend Accessibility & UX](frontend/a11y_playbook.md)**
+- 🏗️ **[Backend & Database Engineering](backend/backend_playbook.md)**
+- ☁️ **[DevOps & Cloud Engineering](devops/devops_cloud_playbook.md)**
+- 🏢 **[Enterprise Monorepo Orchestration](devops/monorepo_playbook.md)**
+- 🔒 **[Security Audit & Code Review](security/security_audit_playbook.md)**
+- 🤖 **[AI & Prompt Engineering](ai/ai_engineering_playbook.md)**
+- 🧪 **[QA Automation & E2E Testing](qa/qa_automation_playbook.md)**
+- 📱 **[Mobile Engineering](mobile/ios_playbook.md)**
+- 🚨 **[Rollback & Disaster Recovery](governance/rollback_playbook.md)**
 
 ### 3. Verify & Release
 Once the agent completes its implementation, DO NOT trust it blindly. Run the verification script:
